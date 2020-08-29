@@ -1,0 +1,39 @@
+.container {
+  max-width: 1460px;
+}
+.body,
+input,
+select,
+textarea,
+option {
+  font-family: ;
+}
+.about-us {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 16px;
+  margin-top: -200px;
+}
+.about-us__text p {
+  width: 1218px;
+  margin-top: 72px;
+  font-size: 19px;
+  line-height: 50px;
+  color: #000000;
+  padding-top: 78px;
+}
+.product-factory {
+  width: 670px;
+}
+.social-media {
+  position: relative;
+  right: 146px;
+  top: 62px;
+  float: right;
+}
+.about-us_background {
+  position: relative;
+  left: 771px;
+  top: 37px;
+  margin-right: 81px;
+}
